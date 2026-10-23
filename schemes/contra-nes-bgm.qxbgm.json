@@ -1,0 +1,75 @@
+{
+  "scheme": "qxbgm/v1",
+  "id": "contra-nes-bgm",
+  "name": "魂斗罗·重返郭往营地 BGM 包",
+  "author": "crt106",
+  "description": "美版 NES 魂斗罗原声，按奇域关卡映射：野外关(1/3/5)→丛林关、基地关(2/4)→基地、终盘(6+)→异形巢穴。chiptune-6k 预设。",
+  "createdAt": "2026-10-23T23:59:00+08:00",
+  "gameVersion": "7.1",
+  "tracks": [
+    {
+      "target": {
+        "fileID": 378498012,
+        "pck": "BeydMusic2.pck"
+      },
+      "targetRef": {
+        "index": 10032,
+        "name": "预见的征程 Venture of Tonalamatl"
+      },
+      "audio": {
+        "uri": "audio/contra-10032-jungle-hangar.wem",
+        "kind": "wem",
+        "sha256": "fe5768e7224fb329dbb800db48cec91ec7986abbfac12eedcbdd06e1d7dacc78",
+        "durationHintSec": 180.0
+      },
+      "encode": {
+        "preset": "chiptune-6k",
+        "loop": false
+      }
+    },
+    {
+      "target": {
+        "fileID": 615805142,
+        "pck": "BeydMusic4.pck"
+      },
+      "targetRef": {
+        "index": 10046,
+        "name": "苍原的颂灵歌 Anthem of the Savannah"
+      },
+      "audio": {
+        "uri": "audio/contra-10046-bases.wem",
+        "kind": "wem",
+        "sha256": "2525fab897949eebf4ea9a5782b20811d9a5e4dca47a70f5650e54aeffca78bf",
+        "durationHintSec": 180.0
+      },
+      "encode": {
+        "preset": "chiptune-6k",
+        "loop": false
+      }
+    },
+    {
+      "target": {
+        "fileID": 952564916,
+        "pck": "BeydMusic7.pck"
+      },
+      "targetRef": {
+        "index": 10020,
+        "name": "炽火之舞 A Dance in Fire"
+      },
+      "audio": {
+        "uri": "audio/contra-10020-aliens-lair.wem",
+        "kind": "wem",
+        "sha256": "331c358aee032278150b2f791eb079da1eebe643e5482df75315f3f21de3d8f1",
+        "durationHintSec": 156.8
+      },
+      "encode": {
+        "preset": "chiptune-6k",
+        "loop": false
+      }
+    }
+  ],
+  "wonderland": {
+    "id": "32792444882",
+    "name": "魂斗罗·重返郭往营地"
+  }
+}

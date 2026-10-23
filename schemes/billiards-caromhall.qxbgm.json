@@ -1,0 +1,35 @@
+{
+  "scheme": "qxbgm/v1",
+  "id": "billiards-caromhall",
+  "name": "台球奇域·caromhall 单曲包",
+  "author": "crt106",
+  "description": "模拟台球奇域厅内 BGM（原曲：天使的馈赠 10082）替换为 caromhall。",
+  "createdAt": "2026-10-23T23:59:00+08:00",
+  "gameVersion": "7.1",
+  "tracks": [
+    {
+      "target": {
+        "fileID": 872178224,
+        "pck": "BeydMusic6.pck"
+      },
+      "targetRef": {
+        "index": 10082,
+        "name": "天使的馈赠 Angel's Share"
+      },
+      "audio": {
+        "uri": "audio/caromhall-10082.wem",
+        "kind": "wem",
+        "sha256": "e13a16d2f67c47f1d519c624fbc203a0ad66ffe841dd75a5f4201c88a97638ae",
+        "durationHintSec": 110.8
+      },
+      "encode": {
+        "preset": "normal",
+        "loop": false
+      }
+    }
+  ],
+  "wonderland": {
+    "id": "101719476929",
+    "name": "模拟台球"
+  }
+}

@@ -1,0 +1,23 @@
+{
+ "10032": {
+  "src": "contra-nes/2 - Jungle  Hangar (Stages 1  7).mp3",
+  "dur": 180.0,
+  "size": 8930368,
+  "cap": 14021848,
+  "preset": "chiptune-6k"
+ },
+ "10046": {
+  "src": "contra-nes/3 - Bases I  II (Stages 2  4).mp3",
+  "dur": 180.0,
+  "size": 8930368,
+  "cap": 13647160,
+  "preset": "chiptune-6k"
+ },
+ "10020": {
+  "src": "contra-nes/8 - Alien's Lair (Stage 8).mp3",
+  "dur": 156.8,
+  "size": 7780456,
+  "cap": 7879528,
+  "preset": "chiptune-6k"
+ }
+}
