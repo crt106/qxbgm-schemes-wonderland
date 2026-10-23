@@ -17,7 +17,7 @@
         "name": "预见的征程 Venture of Tonalamatl"
       },
       "audio": {
-        "uri": "audio/contra-10032-jungle-hangar.wem",
+        "uri": "../audio/contra-10032-jungle-hangar.wem",
         "kind": "wem",
         "sha256": "fe5768e7224fb329dbb800db48cec91ec7986abbfac12eedcbdd06e1d7dacc78",
         "durationHintSec": 180.0
@@ -37,7 +37,7 @@
         "name": "苍原的颂灵歌 Anthem of the Savannah"
       },
       "audio": {
-        "uri": "audio/contra-10046-bases.wem",
+        "uri": "../audio/contra-10046-bases.wem",
         "kind": "wem",
         "sha256": "2525fab897949eebf4ea9a5782b20811d9a5e4dca47a70f5650e54aeffca78bf",
         "durationHintSec": 180.0
@@ -57,7 +57,7 @@
         "name": "炽火之舞 A Dance in Fire"
       },
       "audio": {
-        "uri": "audio/contra-10020-aliens-lair.wem",
+        "uri": "../audio/contra-10020-aliens-lair.wem",
         "kind": "wem",
         "sha256": "331c358aee032278150b2f791eb079da1eebe643e5482df75315f3f21de3d8f1",
         "durationHintSec": 156.8

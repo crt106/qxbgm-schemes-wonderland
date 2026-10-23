@@ -17,7 +17,7 @@
         "name": "天使的馈赠 Angel's Share"
       },
       "audio": {
-        "uri": "audio/caromhall-10082.wem",
+        "uri": "../audio/caromhall-10082.wem",
         "kind": "wem",
         "sha256": "e13a16d2f67c47f1d519c624fbc203a0ad66ffe841dd75a5f4201c88a97638ae",
         "durationHintSec": 110.8
